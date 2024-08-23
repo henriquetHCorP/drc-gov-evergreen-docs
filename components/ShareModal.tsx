@@ -56,7 +56,7 @@ const ShareModal = ({roomId, collaborators, creatorId, currentUserType }: ShareD
                   height={20}
                   className="min-w-4 md:size-5"
                 />
-               <p className="mr-1 hidden sm:block ">Share</p>
+               <p className="mr-1 hidden sm:block ">Share</p> 
                </Button>
             </DialogTrigger>
             <DialogContent className="shad-dialog">
